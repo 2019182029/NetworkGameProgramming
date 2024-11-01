@@ -38,7 +38,6 @@
 *.db
 *.db-shm
 *.db-wal
-*.sln
 *.ico
 *.rc
 *.vcxproj
