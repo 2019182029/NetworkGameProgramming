@@ -28,5 +28,32 @@
 
 # Executables
 *.exe
+*.exe.recipe
 *.out
 *.app
+
+# 
+*.vsidx
+*.suo
+*.db
+*.db-shm
+*.db-wal
+*.sln
+*.ico
+*.rc
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.ilk
+*.log
+*.res
+*.tlog
+*.lastbuildstate
+*.command
+*.read
+*.write
+*.idb
+*.pdb
+*.iobj
+*.ipdb
+*.obj.enc
